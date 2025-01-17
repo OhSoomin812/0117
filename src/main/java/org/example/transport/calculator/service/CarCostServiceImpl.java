@@ -1,4 +1,4 @@
-package org.example.cost_calc.service;
+package org.example.transport.calculator.service;
 
 public class CarCostServiceImpl implements CostService {
     @Override

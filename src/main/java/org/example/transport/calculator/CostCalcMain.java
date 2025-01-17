@@ -1,4 +1,4 @@
-package org.example.cost_calc;
+package org.example.transport.calculator;
 
 import java.util.Scanner;
 

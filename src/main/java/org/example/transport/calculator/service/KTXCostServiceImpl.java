@@ -1,6 +1,4 @@
-package org.example.cost_calc.service;
-
-import org.example.cost_calc.service.CostService;
+package org.example.transport.calculator.service;
 
 public class KTXCostServiceImpl implements CostService {
 

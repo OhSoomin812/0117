@@ -1,9 +1,9 @@
-package org.example.cost_calc;
+package org.example.transport.calculator;
 
-import org.example.cost_calc.service.BusCostServiceImpl;
-import org.example.cost_calc.service.CarCostServiceImpl;
-import org.example.cost_calc.service.CostService;
-import org.example.cost_calc.service.KTXCostServiceImpl;
+import org.example.transport.calculator.service.BusCostServiceImpl;
+import org.example.transport.calculator.service.CarCostServiceImpl;
+import org.example.transport.calculator.service.CostService;
+import org.example.transport.calculator.service.KTXCostServiceImpl;
 import org.example.ui.BasicUI;
 
 import java.util.Scanner;
