@@ -1,4 +1,4 @@
-package org.example.transport.calculator;
+package org.example.transport.calculator.ui;
 
 import org.example.transport.calculator.service.BusCostServiceImpl;
 import org.example.transport.calculator.service.CarCostServiceImpl;
